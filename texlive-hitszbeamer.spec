@@ -1,6 +1,6 @@
 Name:		texlive-hitszbeamer
 Version:	54381
-Release:	1
+Release:	2
 Summary:	A beamer theme for Harbin Institute of Technology, ShenZhen
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hitszbeamer
