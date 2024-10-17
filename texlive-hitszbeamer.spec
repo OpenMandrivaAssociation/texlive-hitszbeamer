@@ -3,7 +3,7 @@ Version:	54381
 Release:	2
 Summary:	A beamer theme for Harbin Institute of Technology, ShenZhen
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hitszbeamer
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hitszbeamer
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hitszbeamer.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hitszbeamer.doc.r%{version}.tar.xz
